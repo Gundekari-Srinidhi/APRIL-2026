@@ -31,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0100-same-tree) |
+## Math
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
