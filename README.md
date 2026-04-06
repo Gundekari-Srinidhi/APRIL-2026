@@ -25,19 +25,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0199-binary-tree-right-side-view) |
 ## Math
 |  |
 | ------- |
