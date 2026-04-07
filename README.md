@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
