@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0977-squares-of-a-sorted-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0977-squares-of-a-sorted-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Sorting
 |  |
 | ------- |
@@ -60,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
