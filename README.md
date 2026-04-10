@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
