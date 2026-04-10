@@ -73,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
