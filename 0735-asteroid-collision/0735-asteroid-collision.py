@@ -1,18 +1,15 @@
 class Solution:
-    def asteroidCollision(self, nums: List[int]) -> List[int]:
-        n=len(nums)
-        stack=[]
-        for i in range(n):
-            if nums[i]>0:
-                stack.append(nums[i])
-            else:
-                
-               
-                while stack and stack[-1]<abs(nums[i]):
+    def asteroidCollision(self, asteroids: List[int]) -> List[int]:
+        stack = []
+        for asteroid in asteroids:
+            while stack and asteroid < 0 < stack[-1]:
+                if stack[-1] < abs(asteroid):
                     stack.pop()
-                if len(stack)==0:
-                    stack.append(nums[i])
-                if abs(nums[i])==stack[-1]:
-                    stack.pop()            
+                    continue
+                elif stack[-1] == abs(asteroid):
+                    stack.pop()
+                break
+            else:
+                stack.append(asteroid)
         return stack
                 
