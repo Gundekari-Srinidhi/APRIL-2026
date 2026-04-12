@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0735-asteroid-collision) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0649-dota2-senate) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
