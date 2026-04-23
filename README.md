@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0029-divide-two-integers) |
 | [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0029-divide-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Linked List
 |  |
