@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0043-multiply-strings) |
 | [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0735-asteroid-collision) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0125-valid-palindrome) |
 | [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0649-dota2-senate) |
 ## Greedy
