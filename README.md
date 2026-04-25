@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0977-squares-of-a-sorted-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0279-perfect-squares) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Gundekari-Srinidhi/APRIL-2026/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
